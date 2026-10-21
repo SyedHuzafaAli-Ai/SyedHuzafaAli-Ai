@@ -9,7 +9,7 @@ Building retrieval systems that are precise, fast, and cost-efficient.
 <p>
 <a href="https://www.linkedin.com/in/engrsyedhuzafa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://instagram.com/ai_decode_lab"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:engr.syed.huzafa.ali@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 </div>
@@ -91,7 +91,7 @@ Rebuilt a standard RAG pipeline to filter out irrelevant context before it reach
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=EngrSyedHuzafa&hide_border=true&background=00000000&ring=24F296&fire=24F296&currStreakLabel=24F296&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" height="165" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=SyedHuzafaAli-Ai&hide_border=true&background=00000000&ring=24F296&fire=24F296&currStreakLabel=24F296&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" height="165" alt="GitHub streak" />
 
 </div>
 
@@ -114,6 +114,6 @@ IBM (Coursera): Python · Data Science · Machine Learning · Data Visualization
 
 <div align="center">
 
-**Let's connect:** [LinkedIn](https://www.linkedin.com/in/engrsyedhuzafa/) · [Instagram](https://instagram.com/ai_decode_lab) · [Email](mailto:YOUR_EMAIL@gmail.com)
+**Let's connect:** [LinkedIn](https://www.linkedin.com/in/engrsyedhuzafa/) · [Instagram](https://instagram.com/ai_decode_lab) · [Email](mailto:engr.syed.huzafa.ali@gmail.com)
 
 </div>
