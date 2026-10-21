@@ -1,151 +1,119 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2500&pause=800&color=24F296&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Syed+Huzafa+Ali;An+AI/ML+Engineer;decoding+language+models...;Agent+%2B+RAG+%2B+LangChain+%2B+LangGraph" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=24F296&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Syed+Huzafa+Ali;AI%2FML+Engineer;RAG+%7C+LLM+Applications+%7C+Agents" alt="Typing SVG" />
 
-<br>
+<p>
+Building retrieval systems that are precise, fast, and cost-efficient.
+</p>
 
-`root@syed:~$` building retrieval systems that don't hallucinate on you
-
-<br>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-2E8B57?style=for-the-badge&logoColor=white)
-<br>
-
-## `> whoami`
-
-<div align="center">
-
-AI/ML Engineer. I take messy retrieval pipelines and make them<br>
-precise, fast, and cheap. Currently obsessed with cutting token waste out<br>
-of RAG systems without cutting answer quality.
-
-Also running AI Decode Lab — curating the AI news and tools worth your<br>
-time, so you don't have to sort through the noise yourself.
+<p>
+<a href="https://www.linkedin.com/in/engrsyedhuzafa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://instagram.com/ai_decode_lab"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 </div>
 
-<br>
+---
 
-## `> stack --list`
+## About Me
 
-<table>
-<tr>
-<td valign="top" width="33%">
+I'm an AI/ML Engineer and Computer Science graduate from UET Lahore, specializing in **RAG systems and LLM-powered applications**. I take messy retrieval pipelines and make them precise, fast, and cheap, with a current focus on reducing token waste without sacrificing answer quality.
 
-**Core**
-```
-Python
-FastAPI
-Docker
-```
+I also run **AI Decode Lab**, an educational brand where I break down AI and backend engineering topics into clear, practical content.
 
-</td>
-<td valign="top" width="33%">
+**Open to AI/ML Engineer roles.** Feel free to reach out.
 
-**LLM / Retrieval**
-```
-LangChain
-LangGraph
-FAISS
-Pinecone
-```
+---
 
-</td>
-<td valign="top" width="33%">
+## Tech Stack
 
-**Tooling**
-```
-Git
-VS Code
-Linux
-```
+**Languages**
 
-</td>
-</tr>
-</table>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<br>
+**LLM, RAG and Agents**
 
-## `> cat featured_project.md`
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-2E8B57?style=flat-square&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
 
-<table>
-<tr>
-<td width="70%">
+**Vector Search**
 
-**RAG Pipeline — Precision-Tuned Retrieval**
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
 
-Rebuilt a standard RAG pipeline to cut irrelevant context before it ever
-reaches the model. Focused on two numbers that actually matter in
-production: retrieval precision and token spend per query.
+**Backend and Deployment**
 
-`→` measurable precision gain over baseline retrieval
-`→` meaningful token reduction per query at the same answer quality
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-</td>
-<td valign="top" width="30%">
+**Machine Learning and Data**
 
-```
-status: shipped
-stack:  LangChain
-        FAISS
-        FastAPI
-repo:   link below ↓
-```
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white)
 
-</td>
-</tr>
-</table>
+**Tools**
 
-<div align="left">
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-`Viewrepo →`[![link]](https://github.com/YOUR_USERNAME/YOUR_REPO)
+**Concepts:** Retrieval-Augmented Generation · Multimodal RAG · LLM Agents · Prompt Engineering · Embeddings and Vector Search · RAG Evaluation · REST API Design
 
-</div>
+---
 
-<br>
+## Featured Project
 
-## `> git log --stats`
+### RAG Pipeline: Precision-Tuned Retrieval
+
+Rebuilt a standard RAG pipeline to filter out irrelevant context before it reaches the model, focusing on the two metrics that matter most in production: **retrieval precision** and **token cost per query**.
+
+| | |
+|---|---|
+| **Stack** | LangChain, FAISS, FastAPI |
+| **Highlights** | Higher retrieval precision than baseline, lower token usage at the same answer quality |
+| **Repository** | [View on GitHub](https://github.com/EngrSyedHuzafa/YOUR_REPO) |
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=00000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" height="165"/>
+<img src="https://streak-stats.demolab.com?user=EngrSyedHuzafa&hide_border=true&background=00000000&ring=24F296&fire=24F296&currStreakLabel=24F296&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" height="165" alt="GitHub streak" />
 
 </div>
 
-<br>
+---
 
-## `> currently`
+## Currently
+
+- Building cleaner RAG evaluation workflows
+- Reading research on LLM evaluation frameworks
+- Creating educational AI and backend content at [@ai_decode_lab](https://instagram.com/ai_decode_lab)
+- Looking for AI/ML Engineer opportunities
+
+---
+
+## Certifications
+
+IBM (Coursera): Python · Data Science · Machine Learning · Data Visualization
+
+---
+
 <div align="center">
-```diff
-+ shipping: cleaner RAG evaluation workflows
-+ reading:  papers on LLM eval frameworks
-+ curating: AI news + tool breakdowns @ai_decode_lab
-+ open to:  AI/ML Engineer roles — let's talk
-```
-</div>
-<br>
 
-<div align="center">
-
-`connect →` [LinkedIn](https://www.linkedin.com/in/engrsyedhuzafa/) · [Instagram](https://instagram.com/ai_decode_lab) · [Email](mailto:engr.syed.huzafa.ali)
-
-<sub>this README rebuilds itself less often than my RAG pipeline does</sub>
+**Let's connect:** [LinkedIn](https://www.linkedin.com/in/engrsyedhuzafa/) · [Instagram](https://instagram.com/ai_decode_lab) · [Email](mailto:YOUR_EMAIL@gmail.com)
 
 </div>
